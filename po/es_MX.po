@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-tv-out 20091013120338\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
 "PO-Revision-Date: 2009.10.13 12:03+0300\n"
 "Last-Translator:\n"
